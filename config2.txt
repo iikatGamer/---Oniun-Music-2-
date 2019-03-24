@@ -1,0 +1,6 @@
+owner=541341198539816980
+prefix=2
+game=??- Oniun ? Music 2 | 2play
+stayinchannel=true
+songinstatus=false
+token=NTU5MzQ5MTU5NDg0ODUwMTc2.D3kGPQ.r9x9-cv5Umxf-x5IM98l5uGm_Fo
